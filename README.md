@@ -1,6 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MEW&fontSize=80" />
-</p>
+<div align="center">
+
+```                       
+  ▄▄▄     ▄▄▄                 
+   ███▄ ▄███                  
+   ██ ▀█▀ ██                  
+   ██     ██   ▄█▀█▄▀█▄ █▄ ██▀
+   ██     ██   ██▄█▀ ██▄██▄██ 
+ ▀██▀     ▀██▄▄▀█▄▄▄  ▀██▀██▀
+```
+ </div>                             
+                              
 <h1 align="center">Hi there, I'm MEW Pakin 👋</h1>
 
 <p align="center">
