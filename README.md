@@ -6,9 +6,6 @@
 <p align="center">
   <b>Software Engineer · Bangkok, Thailand</b>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MEW&fontSize=80" />
-</p>
 
 <p align="center">
   <!-- ปุ่ม Website -->
