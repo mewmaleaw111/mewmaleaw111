@@ -21,17 +21,17 @@
 <p align="center">
   <!-- ปุ่ม Website -->
   <a href="https://my-portfolio-delta-mauve-47.vercel.app/">
-    <img src="https://img.shields.io/badge/MYWEB-YOURWEBSITE.COM-333333?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/MYWEB-PAKIN.COM-333333?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   
   <!-- ปุ่ม Email -->
   <a href="mailto:mui0033@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-YOUR__EMAIL@EXAMPLE.COM-2C3E50?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-mui0033@gmail.COM-2C3E50?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <!-- ปุ่ม GitHub -->
   <a href="https://github.com/mewmaleaw111">
-    <img src="https://img.shields.io/badge/GITHUB-YOURUSERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-mewmaleaw111-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 <!--
