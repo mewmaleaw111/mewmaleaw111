@@ -34,6 +34,19 @@
     <img src="https://img.shields.io/badge/GITHUB-mewmaleaw111-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🌏 Based in **Bangkok, Thailand**
+* 🤖 Interested in **AI Agents** and autonomous systems
+* 🛠️ **Full-stack engineer** with a love for clean architecture and thoughtful UX
+* 📬 Reach me anytime at [mui0033@gmail.com](mailto:mui0033@gmail.com)
+
+---
+
+## 🚀 Tech Stack
 <!--
 **mewmaleaw111/mewmaleaw111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
